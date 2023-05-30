@@ -1,2 +1,2 @@
 # myWebsite.github.io
-My personal webpage for ANM205
+My personal webpage for ANM2050
